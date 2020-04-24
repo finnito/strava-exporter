@@ -5,6 +5,8 @@
 // @description  Extract your Strava activities as CSV/TSV data.
 // @author       Finn LeSueur
 // @match        https://www.strava.com/athlete/training
+// @updateURL    https://gitlab.com/Finnito/strava-exporter/-/raw/master/strava-exporter.user.js
+// @downloadURL  https://gitlab.com/Finnito/strava-exporter/-/raw/master/strava-exporter.user.js
 // @grant        none
 // ==/UserScript==
 
