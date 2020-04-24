@@ -1,4 +1,4 @@
-## 🏃‍♂️Strava Activity Exporter
+## 🏃Strava Activity Exporter
 
 These two scripts will allow you to export your Strava activities as Tab Separated Values (TSV) for easy pasting into your spreadsheet of choice (Google Sheets/Microsoft Excel/whatever).
 
